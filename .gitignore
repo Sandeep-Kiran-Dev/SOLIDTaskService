@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SolidPrinciplesDemo.sln
+# Ignore Visual Studio files
+.vs/
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
+out/
+
+# GitHub Copilot or IntelliCode
+CopilotIndices/
+
+# Logs and temp
+*.log
+*.cache
